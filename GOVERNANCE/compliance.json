@@ -1,0 +1,16 @@
+{
+  "nist_compliance": {
+    "pqc_standards": ["FIPS 203", "FIPS 204", "FIPS 205"],
+    "testing": ["NIST PQC Test Vectors"],
+    "validation": "Self-certified via formal verification"
+  },
+  "export_control": {
+    "classification": "EAR99",
+    "jurisdiction": "Global deployment allowed"
+  },
+  "licensing": {
+    "module_license": "Apache-2.0",
+    "patent_grant": "Automatic to all users",
+    "commercial_use": "Permitted with attribution"
+  }
+}
